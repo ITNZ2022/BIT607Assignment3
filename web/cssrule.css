@@ -1,9 +1,5 @@
- 
-    .footer {
-   
-        background-color: rgba(14, 4, 4, 0.607);
-   
-        padding: 0.5vw;
-   
-        font-size: 2vw;
-    }
+html *
+{
+   color: rgb(0,0,0);
+   font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+}
