@@ -3,6 +3,7 @@ html *
    color: rgb(0,0,0);
    font-family: Georgia, 'Times New Roman', Times, !important;
 }
-.link{
+/*.link class adds color to link on home page that directs staff to their roster */
+.link{ 
     color: white;
 }
